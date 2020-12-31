@@ -12,14 +12,13 @@ pkg install update && pkg install upgrade -y
 pkg install python -y
 pkg install python2 -y
 pkg install git -y
-````
+```
 # install pip :
 ```
 pip install request
 pip install mechanize
 pip install bs4
-````
+```
 
 # follow me in :
-[!TELEGRAM](https://img.shields.io/badge/channel-telegram-yellow)](https://t.me/Professional_school)
-[!TELEGRAM](https://img.shields.io/badge/channel-telegram-red)](https://youtube.com/channel/UCCgmIKpPgUOQauZ3IvrchBA)
+[![TELEGRAM](https://img.shields.io/badge/channel-telegram-yellow)](https://t.me/Professional_school)
