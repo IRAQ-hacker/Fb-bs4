@@ -22,3 +22,4 @@ pip install bs4
 
 # follow me in :
 [![TELEGRAM](https://img.shields.io/badge/channel-telegram-yellow)](https://t.me/Professional_school)
+[![TELEGRAM](https://img.shields.io/badge/channel-YouTube-red)](https://youtube.com/channel/UCCgmIKpPgUOQauZ3IvrchBA)
