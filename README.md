@@ -23,6 +23,12 @@ pip install request
 pip install mechanize
 pip install bs4
 ```
+# run 
+```
+cd Fb-bs4
+chmod +x *
+python2 Bs4.pyc
+```
 
 # follow me in :
 [![TELEGRAM](https://img.shields.io/badge/channel-telegram-yellow)](https://t.me/Professional_school)
